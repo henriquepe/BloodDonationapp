@@ -4,7 +4,6 @@ import { RectButton } from 'react-native-gesture-handler';
 
 export const LoginButtonText = styled.Text`
   color: #fbfafa;
-  font-family: 'Poppins-Bold';
 `;
 
 export const Container = styled(RectButton)`

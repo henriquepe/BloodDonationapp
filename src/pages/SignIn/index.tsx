@@ -82,7 +82,6 @@ const SignIn: React.FC = () => {
             style={{
               color: '#fff',
               fontSize: 24,
-              fontFamily: 'Poppins-Bold',
               paddingTop: 32,
               paddingLeft: 32,
             }}
@@ -91,7 +90,6 @@ const SignIn: React.FC = () => {
             <Text
               style={{
                 fontSize: 24,
-                fontFamily: 'Poppins-Bold',
                 paddingTop: 32,
                 color: '#A10604',
               }}

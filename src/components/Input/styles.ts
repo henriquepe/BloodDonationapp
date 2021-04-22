@@ -15,7 +15,6 @@ export const Container = styled.View<ContainerProps>`
 `;
 
 export const InputComponent = styled.TextInput`
-  font-family: 'Poppins-Regular';
   width: 100%;
 
   padding-left: 17px;

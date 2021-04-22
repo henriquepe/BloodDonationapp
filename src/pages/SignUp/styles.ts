@@ -46,7 +46,6 @@ export const SignOutInputOne = styled.TextInput<OtherInputsProps>`
   border-radius: 5px;
   padding-left: 17px;
   color: #000;
-  font-family: 'Poppins-Regular';
   color: #ffeaea;
   font-size: 14px;
 
@@ -66,7 +65,6 @@ export const SignOutInputTwo = styled.TextInput<OtherInputsProps>`
   padding-left: 17px;
   color: #000;
 
-  font-family: 'Poppins-Regular';
   color: #ffeaea;
   font-size: 14px;
 

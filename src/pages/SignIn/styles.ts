@@ -43,7 +43,6 @@ export const CreateAccountButton = styled.TouchableOpacity`
 `;
 
 export const CreateAccountButtonText = styled.Text`
-  font-family: 'Poppins-Bold';
 
   color: #fbfafa;
 `;
